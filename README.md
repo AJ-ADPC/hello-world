@@ -1,5 +1,5 @@
 # hello-world
-The first project in GitHub, following the guieline.
+The first project in GitHub, following the guideline.
 
 Hi there!
 
